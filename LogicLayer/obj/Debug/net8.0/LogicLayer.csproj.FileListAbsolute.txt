@@ -1,0 +1,17 @@
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\bin\Debug\net8.0\LogicLayer.deps.json
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\bin\Debug\net8.0\LogicLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\bin\Debug\net8.0\LogicLayer.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\bin\Debug\net8.0\modelLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\bin\Debug\net8.0\RepostoryLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\bin\Debug\net8.0\modelLayer.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\bin\Debug\net8.0\RepostoryLayer.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\LogicLayer.csproj.AssemblyReference.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\LogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\LogicLayer.AssemblyInfoInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\LogicLayer.AssemblyInfo.cs
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\LogicLayer.csproj.Up2Date
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\LogicLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\refint\LogicLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\LogicLayer.pdb
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\ref\LogicLayer.dll
