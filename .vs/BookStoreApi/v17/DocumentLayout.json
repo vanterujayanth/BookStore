@@ -3,124 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\updateaddressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\updateaddressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\services\\addresslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\services\\addresslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\addressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\services\\addressrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\services\\addressrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\services\\booklogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\services\\booklogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\interfaces\\iaddresslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\interfaces\\iaddresslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\services\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\services\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\interfaces\\ibooklogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\interfaces\\ibooklogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\services\\adminlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\services\\adminlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\services\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\services\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\interfaces\\iadminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\interfaces\\iadminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\entity\\adminentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\entity\\adminentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\interfaces\\iaddressrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\interfaces\\iaddressrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\interfaces\\iadminlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\interfaces\\iadminlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\services\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\services\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\interfaces\\iuserlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\interfaces\\iuserlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\interfaces\\iadminlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\interfaces\\iadminlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\entity\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\entity\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\services\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\services\\adminrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\send.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\send.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\bookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1CD923EC-D4A6-4AA2-A8F8-368D32E0D5EA}|BookStoreApi\\BookStoreApi.csproj|solutionrelative:bookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\services\\cartlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\services\\cartlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\forgotpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\forgotpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\services\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\services\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\interfaces\\icartlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\interfaces\\icartlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\interfaces\\icartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\interfaces\\icartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\deletecartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\deletecartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\modellayer\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7251A0AA-6157-48FD-8D14-4E67513C1938}|modelLayer\\modelLayer.csproj|solutionrelative:modellayer\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\services\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\services\\bookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\logiclayer\\services\\booklogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA11DC59-048F-4BB9-9E44-7ED7900A571F}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\services\\booklogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\interfaces\\ibookrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|c:\\users\\rajesh venteru\\onedrive\\documents\\bookstoreapi\\repostorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34FDE19-8AED-49AD-8F3C-313B7F9E32EA}|RepostoryLayer\\RepostoryLayer.csproj|solutionrelative:repostorylayer\\services\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,178 +110,199 @@
       "DocumentGroups": [
         {
           "DockedHeight": 27,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\Class1.cs",
-              "RelativeDocumentMoniker": "RepostoryLayer\\Services\\Class1.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\Class1.cs",
-              "RelativeToolTip": "RepostoryLayer\\Services\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "DocumentIndex": 6,
+              "Title": "IAddressRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\IAddressRepo.cs",
+              "RelativeDocumentMoniker": "RepostoryLayer\\Interfaces\\IAddressRepo.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\IAddressRepo.cs",
+              "RelativeToolTip": "RepostoryLayer\\Interfaces\\IAddressRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T10:45:06.466Z",
+              "WhenOpened": "2024-05-23T17:47:41.753Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IBookRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\IBookRepo.cs",
-              "RelativeDocumentMoniker": "RepostoryLayer\\Interfaces\\IBookRepo.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\IBookRepo.cs",
-              "RelativeToolTip": "RepostoryLayer\\Interfaces\\IBookRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T09:56:55.767Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Booklogic.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Booklogic.cs",
-              "RelativeDocumentMoniker": "LogicLayer\\Services\\Booklogic.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Booklogic.cs",
-              "RelativeToolTip": "LogicLayer\\Services\\Booklogic.cs",
-              "ViewState": "AQIAABMAAAAAMjMzMzP1vygAAAAIAAAA",
+              "Title": "IAddresslogic.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IAddresslogic.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\Interfaces\\IAddresslogic.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IAddresslogic.cs",
+              "RelativeToolTip": "LogicLayer\\Interfaces\\IAddresslogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T09:57:39.359Z"
+              "WhenOpened": "2024-05-23T18:00:16.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IBooklogic.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IBooklogic.cs",
-              "RelativeDocumentMoniker": "LogicLayer\\Interfaces\\IBooklogic.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IBooklogic.cs",
-              "RelativeToolTip": "LogicLayer\\Interfaces\\IBooklogic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T09:59:38.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IAdminRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\IAdminRepo.cs",
-              "RelativeDocumentMoniker": "RepostoryLayer\\Interfaces\\IAdminRepo.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\IAdminRepo.cs",
-              "RelativeToolTip": "RepostoryLayer\\Interfaces\\IAdminRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:05:18.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BookStoreApi\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BookStoreApi\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T12:53:13.105Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "BookStoreApi\\Controllers\\AdminController.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\AdminController.cs",
               "RelativeToolTip": "BookStoreApi\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAcAAADALzMzM7MSwBMAAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBtPQAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:08:41.49Z",
+              "WhenOpened": "2024-05-22T13:50:18.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddressModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\AddressModel.cs",
+              "RelativeDocumentMoniker": "modelLayer\\AddressModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\AddressModel.cs",
+              "RelativeToolTip": "modelLayer\\AddressModel.cs",
+              "ViewState": "AQIAAAYAAACAZWZmZmYkwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:38:41.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\UserRepo.cs",
-              "RelativeDocumentMoniker": "RepostoryLayer\\Services\\UserRepo.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\UserRepo.cs",
-              "RelativeToolTip": "RepostoryLayer\\Services\\UserRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "BookStoreApi\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "BookStoreApi\\Controllers\\AddressController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwDgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T12:47:28.793Z",
+              "WhenOpened": "2024-05-23T18:02:57.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateAddressModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\UpdateAddressModel.cs",
+              "RelativeDocumentMoniker": "modelLayer\\UpdateAddressModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\UpdateAddressModel.cs",
+              "RelativeToolTip": "modelLayer\\UpdateAddressModel.cs",
+              "ViewState": "AQIAAAIAAADgMjMzMzMrwBQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:31:43.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Addresslogic.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Addresslogic.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\Services\\Addresslogic.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Addresslogic.cs",
+              "RelativeToolTip": "LogicLayer\\Services\\Addresslogic.cs",
+              "ViewState": "AQIAAA4AAABgMjMzMzMvwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:48:39.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "BookStoreApi\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\BookController.cs",
-              "RelativeToolTip": "BookStoreApi\\Controllers\\BookController.cs",
-              "ViewState": "AQIAADQAAABAxczMzMwVwHAAAAAIAAAA",
+              "Title": "AddressRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\AddressRepo.cs",
+              "RelativeDocumentMoniker": "RepostoryLayer\\Services\\AddressRepo.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\AddressRepo.cs",
+              "RelativeToolTip": "RepostoryLayer\\Services\\AddressRepo.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAMwHsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T10:00:31.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\BookRepo.cs",
-              "RelativeDocumentMoniker": "RepostoryLayer\\Services\\BookRepo.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\BookRepo.cs",
-              "RelativeToolTip": "RepostoryLayer\\Services\\BookRepo.cs",
-              "ViewState": "AQIAAJUAAAAAAAAAAAASwKIAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T09:46:32.426Z"
+              "WhenOpened": "2024-05-23T17:23:48.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Adminlogic.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Adminlogic.cs",
-              "RelativeDocumentMoniker": "LogicLayer\\Services\\Adminlogic.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Adminlogic.cs",
-              "RelativeToolTip": "LogicLayer\\Services\\Adminlogic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Title": "IAdminlogic.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IAdminlogic.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\Interfaces\\IAdminlogic.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IAdminlogic.cs",
+              "RelativeToolTip": "LogicLayer\\Interfaces\\IAdminlogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:06:11.055Z"
+              "WhenOpened": "2024-05-23T18:00:03.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\DataContext.cs",
-              "RelativeDocumentMoniker": "RepostoryLayer\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\DataContext.cs",
-              "RelativeToolTip": "RepostoryLayer\\DataContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAASwBYAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T03:50:16.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Program.cs",
               "RelativeDocumentMoniker": "BookStoreApi\\Program.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Program.cs",
               "RelativeToolTip": "BookStoreApi\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAYmZmZiYpwBAAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:21:01.204Z"
+              "WhenOpened": "2024-05-22T13:53:58.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Role.cs",
-              "RelativeDocumentMoniker": "BookStoreApi\\Role.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Role.cs",
-              "RelativeToolTip": "BookStoreApi\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "DocumentIndex": 9,
+              "Title": "IUserlogic.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IUserlogic.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\Interfaces\\IUserlogic.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IUserlogic.cs",
+              "RelativeToolTip": "LogicLayer\\Interfaces\\IUserlogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T05:14:16.734Z"
+              "WhenOpened": "2024-05-23T18:07:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookStoreApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookStoreApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEoAAACAMTMzM3MhwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T19:03:42.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "BookStoreApi\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\CartController.cs",
+              "RelativeToolTip": "BookStoreApi\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAD8AAAAA+v////8jwEwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:50:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cartlogic.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Cartlogic.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\Services\\Cartlogic.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Cartlogic.cs",
+              "RelativeToolTip": "LogicLayer\\Services\\Cartlogic.cs",
+              "ViewState": "AQIAABMAAAAAZGZmZmbmvyMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:44:51.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IBookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\IBookRepo.cs",
+              "RelativeDocumentMoniker": "RepostoryLayer\\Interfaces\\IBookRepo.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\IBookRepo.cs",
+              "RelativeToolTip": "RepostoryLayer\\Interfaces\\IBookRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:44:08.428Z"
             },
             {
               "$type": "Document",
@@ -311,189 +312,118 @@
               "RelativeDocumentMoniker": "RepostoryLayer\\Services\\AdminRepo.cs",
               "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\AdminRepo.cs",
               "RelativeToolTip": "RepostoryLayer\\Services\\AdminRepo.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAASwFEAAAAIAAAA",
+              "ViewState": "AQIAAAkAAACAZGZmZmYkwBQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T08:57:10.273Z"
+              "WhenOpened": "2024-05-22T16:39:39.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Entity\\UserEntity.cs",
-              "RelativeDocumentMoniker": "RepostoryLayer\\Entity\\UserEntity.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Entity\\UserEntity.cs",
-              "RelativeToolTip": "RepostoryLayer\\Entity\\UserEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookStoreApi\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookStoreApi\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T10:20:05.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AdminEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Entity\\AdminEntity.cs",
-              "RelativeDocumentMoniker": "RepostoryLayer\\Entity\\AdminEntity.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Entity\\AdminEntity.cs",
-              "RelativeToolTip": "RepostoryLayer\\Entity\\AdminEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:24:29.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\LoginModel.cs",
-              "RelativeDocumentMoniker": "modelLayer\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\LoginModel.cs",
-              "RelativeToolTip": "modelLayer\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:54:57.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IAdminlogic.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IAdminlogic.cs",
-              "RelativeDocumentMoniker": "LogicLayer\\Interfaces\\IAdminlogic.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IAdminlogic.cs",
-              "RelativeToolTip": "LogicLayer\\Interfaces\\IAdminlogic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T09:08:04.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BookEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Entity\\BookEntity.cs",
-              "RelativeDocumentMoniker": "RepostoryLayer\\Entity\\BookEntity.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Entity\\BookEntity.cs",
-              "RelativeToolTip": "RepostoryLayer\\Entity\\BookEntity.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T05:40:53.931Z"
+              "WhenOpened": "2024-05-22T19:03:03.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Userlogic.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Userlogic.cs",
-              "RelativeDocumentMoniker": "LogicLayer\\Services\\Userlogic.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Userlogic.cs",
-              "RelativeToolTip": "LogicLayer\\Services\\Userlogic.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAABYPRIAAAAJAAAA",
+              "Title": "ICartRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\ICartRepo.cs",
+              "RelativeDocumentMoniker": "RepostoryLayer\\Interfaces\\ICartRepo.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\ICartRepo.cs",
+              "RelativeToolTip": "RepostoryLayer\\Interfaces\\ICartRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:33:08.373Z"
+              "WhenOpened": "2024-05-22T13:43:04.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteCartModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\DeleteCartModel.cs",
+              "RelativeDocumentMoniker": "modelLayer\\DeleteCartModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\DeleteCartModel.cs",
+              "RelativeToolTip": "modelLayer\\DeleteCartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:42:54.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cartRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\cartRepo.cs",
+              "RelativeDocumentMoniker": "RepostoryLayer\\Services\\cartRepo.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\cartRepo.cs",
+              "RelativeToolTip": "RepostoryLayer\\Services\\cartRepo.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAMwKAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:37:29.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICartlogic.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\ICartlogic.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\Interfaces\\ICartlogic.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\ICartlogic.cs",
+              "RelativeToolTip": "LogicLayer\\Interfaces\\ICartlogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:48:56.599Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "IUserlogic.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IUserlogic.cs",
-              "RelativeDocumentMoniker": "LogicLayer\\Interfaces\\IUserlogic.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Interfaces\\IUserlogic.cs",
-              "RelativeToolTip": "LogicLayer\\Interfaces\\IUserlogic.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\CartModel.cs",
+              "RelativeDocumentMoniker": "modelLayer\\CartModel.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\CartModel.cs",
+              "RelativeToolTip": "modelLayer\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:51:41.402Z"
+              "WhenOpened": "2024-05-22T12:59:04.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Booklogic.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Booklogic.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\Services\\Booklogic.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\LogicLayer\\Services\\Booklogic.cs",
+              "RelativeToolTip": "LogicLayer\\Services\\Booklogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:46:51.138Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "BookModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\BookModel.cs",
-              "RelativeDocumentMoniker": "modelLayer\\BookModel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\BookModel.cs",
-              "RelativeToolTip": "modelLayer\\BookModel.cs",
-              "ViewState": "AQIAAAoAAADAyszMzMwQwAoAAAAGAAAA",
+              "Title": "BookRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\BookRepo.cs",
+              "RelativeDocumentMoniker": "RepostoryLayer\\Services\\BookRepo.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\BookRepo.cs",
+              "RelativeToolTip": "RepostoryLayer\\Services\\BookRepo.cs",
+              "ViewState": "AQIAABgAAADQMTMzM1MwwDAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T10:20:31.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IUserRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\IUserRepo.cs",
-              "RelativeDocumentMoniker": "RepostoryLayer\\Interfaces\\IUserRepo.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Interfaces\\IUserRepo.cs",
-              "RelativeToolTip": "RepostoryLayer\\Interfaces\\IUserRepo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:31:13.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Tokenmodel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\Tokenmodel.cs",
-              "RelativeDocumentMoniker": "modelLayer\\Tokenmodel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\Tokenmodel.cs",
-              "RelativeToolTip": "modelLayer\\Tokenmodel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:27:15.505Z"
+              "WhenOpened": "2024-05-22T12:41:46.673Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Send.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\Send.cs",
-              "RelativeDocumentMoniker": "modelLayer\\Send.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\Send.cs",
-              "RelativeToolTip": "modelLayer\\Send.cs",
-              "ViewState": "AQIAABYAAAAAGjMzMzPjvwwAAAAaAAAA",
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\UserRepo.cs",
+              "RelativeDocumentMoniker": "RepostoryLayer\\Services\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\RepostoryLayer\\Services\\UserRepo.cs",
+              "RelativeToolTip": "RepostoryLayer\\Services\\UserRepo.cs",
+              "ViewState": "AQIAAEcAAAAAm5mZmRklwCEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T19:02:37.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\appsettings.json",
-              "RelativeDocumentMoniker": "BookStoreApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\BookStoreApi\\appsettings.json",
-              "RelativeToolTip": "BookStoreApi\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-20T18:17:23.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ForgotPasswordModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\ForgotPasswordModel.cs",
-              "RelativeDocumentMoniker": "modelLayer\\ForgotPasswordModel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\ForgotPasswordModel.cs",
-              "RelativeToolTip": "modelLayer\\ForgotPasswordModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:44:08.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\UserModel.cs",
-              "RelativeDocumentMoniker": "modelLayer\\UserModel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\UserModel.cs",
-              "RelativeToolTip": "modelLayer\\UserModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:44:32.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Responsemodel.cs",
-              "DocumentMoniker": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\Responsemodel.cs",
-              "RelativeDocumentMoniker": "modelLayer\\Responsemodel.cs",
-              "ToolTip": "C:\\Users\\Rajesh Venteru\\OneDrive\\Documents\\BookStoreApi\\modelLayer\\Responsemodel.cs",
-              "RelativeToolTip": "modelLayer\\Responsemodel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:44:41.486Z"
+              "WhenOpened": "2024-05-22T12:41:56.862Z"
             }
           ]
         }

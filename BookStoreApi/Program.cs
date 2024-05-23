@@ -13,6 +13,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddSingleton<DataContext>();
 //builder.Services.AddScoped<UserRepo>();
+
+builder.Services.AddScoped<IAddressRepo, AddressRepo>();
+builder.Services.AddScoped<IAddresslogic,Addresslogic>();
+
+builder.Services.AddScoped<ICartRepo,CartRepo>();
+builder.Services.AddScoped<ICartlogic,Cartlogic>();
+
 builder.Services.AddScoped<IAdminRepo, AdminRepo>();    
 builder.Services.AddScoped<IAdminlogic,Adminlogic>();
 

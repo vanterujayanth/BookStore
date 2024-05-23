@@ -15,3 +15,4 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\refint\LogicLayer.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\LogicLayer.pdb
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\ref\LogicLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\LogicLayer\obj\Debug\net8.0\LogicLayer.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\refint\RepostoryLayer.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\RepostoryLayer.pdb
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\ref\RepostoryLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\RepostoryLayer.sourcelink.json

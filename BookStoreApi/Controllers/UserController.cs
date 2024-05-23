@@ -25,7 +25,7 @@ namespace BookStoreApi.Controllers
            // this.bus = bus;
 
         }
-        [HttpPost]
+        [HttpPost("Create")]
         public IActionResult Register(UserModel user)
         {
             var result = userlogic.RegisterUser(user);

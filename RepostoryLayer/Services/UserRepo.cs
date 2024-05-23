@@ -57,6 +57,7 @@ namespace RepostoryLayer.Services
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
             var claims = new[]
             {
+               new Claim(ClaimTypes.Role,"User"),
                 new Claim("Email",userEmail),
                 new Claim("UserId", UserId.ToString())
             };
@@ -93,12 +94,7 @@ namespace RepostoryLayer.Services
                     user.EmailId = dataReader["EmailId"].ToString();
                     user.Password = dataReader["Password"].ToString();
                     user.Mobile = dataReader["Mobile"].ToString();
-                    //UserEntity model = new UserEntity();
-                    //model.FullName= dataReader.["FullName"].ToString();
-                    //model.EmailId = dataReader["EmailId"].ToString();
-                    //model.Password = dataReader["Password"].ToString();
-                    //return model;
-                   // return user;
+                   
                 }
                 if (user.EmailId == loginModel.EmailId && user.Password == loginModel.Password)
                 {

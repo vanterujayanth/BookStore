@@ -9,3 +9,4 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\modelLayer\obj\Debug\net
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\modelLayer\obj\Debug\net8.0\refint\modelLayer.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\modelLayer\obj\Debug\net8.0\modelLayer.pdb
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\modelLayer\obj\Debug\net8.0\ref\modelLayer.dll
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\modelLayer\obj\Debug\net8.0\modelLayer.sourcelink.json
