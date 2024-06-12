@@ -13,6 +13,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddSingleton<DataContext>();
 //builder.Services.AddScoped<UserRepo>();
+builder.Services.AddScoped<IwishlistRepo, wishlistRepo>();
+//builder.Services.AddScoped<IWishlistRepo, wishlistRepo>();  
+//builder.Services.AddScoped<IWishlistlogic, wishlistlogic>();
+
+builder.Services.AddScoped<IOrderRepo, OrderRepo>();
+builder.Services.AddScoped<IOrderlogic, orderlogic>();
+
 
 builder.Services.AddScoped<IAddressRepo, AddressRepo>();
 builder.Services.AddScoped<IAddresslogic,Addresslogic>();
@@ -80,6 +87,13 @@ option.AddSecurityRequirement(new OpenApiSecurityRequirement
     }
 });
 });
+
+
+
+builder.Services.AddCors(options => options.AddPolicy("ApiCorsPolicy", builder =>
+{
+    builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+}));
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -99,5 +113,6 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+app.UseCors("ApiCorsPolicy");
 
 app.Run();

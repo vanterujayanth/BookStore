@@ -8,9 +8,9 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\RepostoryLayer.AssemblyInfoInputs.cache
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\RepostoryLayer.AssemblyInfo.cs
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\RepostoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\RepostoryLayer.sourcelink.json
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\Repostor.166C08A3.Up2Date
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\RepostoryLayer.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\refint\RepostoryLayer.dll
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\RepostoryLayer.pdb
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\ref\RepostoryLayer.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\RepostoryLayer\obj\Debug\net8.0\RepostoryLayer.sourcelink.json

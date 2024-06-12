@@ -38,6 +38,7 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\n
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\BookStoreApi.csproj.CoreCompileInputs.cache
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\BookStoreApi.sourcelink.json
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -52,4 +53,3 @@ C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\n
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\BookStoreApi.pdb
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\BookStoreApi.genruntimeconfig.cache
 C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\ref\BookStoreApi.dll
-C:\Users\Rajesh Venteru\OneDrive\Documents\BookStoreApi\BookStoreApi\obj\Debug\net8.0\BookStoreApi.sourcelink.json

@@ -101,7 +101,12 @@ namespace RepostoryLayer.Services
                     LoginToken login = new LoginToken();
                     var token = GenerateToken(user.Id, user.EmailId);
                     login.Token = token;
-                    
+                    login.EmailId = user.EmailId;
+                    login.FullName = user.FullName;
+                    login.Password = user.Password;
+                    login.Mobile = user.Mobile;
+                    login.userid = user.Id;
+               
                     return login;
                 }
                     return null; 

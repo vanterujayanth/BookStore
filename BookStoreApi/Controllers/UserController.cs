@@ -47,7 +47,7 @@ namespace BookStoreApi.Controllers
             var logindata = userlogic.Login(login);
             if (logindata != null)
             {
-                return Ok(new Responsemodel<LoginToken> { IsSuccess = true, Message = "Login Successful", Data = logindata });
+                return Ok(new{ IsSuccess = true, Message = "Login Successful", Data = logindata });
                 // return Ok(logindata);
             }
             return BadRequest(new Responsemodel<LoginToken> { IsSuccess = false, Message = "Login failled" });

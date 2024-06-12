@@ -2,12 +2,17 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace RepostoryLayer.Entity
 {
     public class BookEntity
     {
+        public int UserId { get; set; }
+        public string UserName { get; set; }
+
+
         public int Id { get; set; }
 
         public string Title { get; set; }
@@ -25,6 +30,11 @@ namespace RepostoryLayer.Entity
         public int Quantity { get; set; }
 
         public string Image { get; set; }
+
+        //[JsonIgnore]
+        //public virtual UserEntity userid { get; set; }
+
+        
 
     }
 }

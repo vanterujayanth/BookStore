@@ -42,17 +42,7 @@ namespace BookStoreApi.Controllers
             return Ok(data);
         }
 
-        //[HttpGet]
-        //[Route("GetCardPrice")]
-        //public IActionResult GetCardPrice(int userid)
-        //{
-        //    var data = business.GetPrice(userid);
-        //    if (data == null)
-        //    {
-        //        return NotFound();
-        //    }
-        //    return Ok(data);
-        //}
+        
 
 
         [Authorize(Roles = Role.User)]
@@ -85,3 +75,18 @@ namespace BookStoreApi.Controllers
 
     }
 }
+
+
+
+
+//[HttpGet]
+//[Route("GetCardPrice")]
+//public IActionResult GetCardPrice(int userid)
+//{
+//    var data = business.GetPrice(userid);
+//    if (data == null)
+//    {
+//        return NotFound();
+//    }
+//    return Ok(data);
+//}

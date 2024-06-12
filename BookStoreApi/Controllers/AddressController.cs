@@ -1,4 +1,5 @@
 ﻿using LogicLayer.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using modelLayer;
@@ -15,6 +16,8 @@ namespace BookStoreApi.Controllers
             this.addresslogic = addresslogic;
         }
 
+
+        [Authorize(Roles = Role.User)]
         [HttpPost]
         [Route("AddAddress")]
 
@@ -29,6 +32,7 @@ namespace BookStoreApi.Controllers
 
         }
 
+        [Authorize(Roles = Role.User)]
         [HttpGet]
         [Route("GetAddressByUserId")]
 
@@ -42,7 +46,7 @@ namespace BookStoreApi.Controllers
             return BadRequest();
         }
 
-
+        [Authorize(Roles = Role.User)]
         [HttpPut]
         [Route("UpdateAddress")]
 
